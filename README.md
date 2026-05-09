@@ -28,4 +28,4 @@ O Site conta ainda com uma página de administrador para facilitar a gestão do 
 
 Para mais informações, pode ler o manual de utilizador do site que está disponível no meu linkedin que aparece no meu perfil do git hub.
 
-Nota : Este projeto não foi publicado publicamente na internet com um dominio , este projeto destinou-se á minha PAP do curso profissional
+Nota : Este projeto não foi publicado publicamente na internet com um dominio , este projeto destinou-se á minha PAP do curso profissional logo o site não está pronto para ser publicado devido a falhas de segurança entre outros motivos
